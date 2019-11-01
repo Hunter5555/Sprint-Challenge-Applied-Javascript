@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+Document Object Model provides a standard interface to use across applications and environments.
+
 2. What is an event?
+
+An event notifies the code when something has taken place (something like a click)
 
 3. What is an event listener?
 
+Watches for specific events to perform a specific function in conjunction with that event. 
+
 4. Why would we convert a NodeList into an Array?
 
+You can't always access the data of the NodeList because it is Browser API, not Javascript API.
+
 5. What is a component?
+
+It helps you nest different things together all within javascript.
 
 ### Git Set up
 
